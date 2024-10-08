@@ -7,15 +7,19 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 # Roles and Objectives
 As a junior data analyst on the marketing analytics team, my roles and objectives were as follows
 
-  1. Select one of the Bellabeat's products (Spring water bottle, Leaf wellness tracker or Time wellness watch) and analyze its data to understand how consumers use the device.
-  2. Discover any behavior insights and trends from the consumer's engagement with the device
-  3. Present findings and provide support to the rest of the marketing team
+  1. Analyse any smart device usage data,
+  2. Discover any behaviour, insights and trends from the consumer's engagement with the device
+  3. Select one of the Bellabeat's products(Spring water bottle, Leaf wellness tracker or Time wellness watch) to apply the insights and findings in the final presentation
+  4. Present findings and provide support to the rest of the marketing team
 
 # Dataset
 This [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit) dataset contains personal fitness tracker from thirty fitbit users. 
   1. Thirty eligible Fitbit users consented to the submission of ***personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring***
   2. It includes information about ***daily activity, steps, and heart rate that can be used to explore users’ habits***
 
+NOTE: The dataset might have some limitations, and encourages you to consider adding another data to help
+address those limitations as you begin to work more with this data.
+
 # Tools utilized
-***R and Microsoft Excel*** for data cleaning, transformation, manipulation and visualization. 
+***R, SQL and Microsoft Excel*** for data cleaning, transformation, manipulation and visualization. 
 I would also use ***Tableau*** for further visualization and presentation.
