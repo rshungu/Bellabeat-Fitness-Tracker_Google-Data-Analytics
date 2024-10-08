@@ -17,8 +17,8 @@ This [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit) dataset contains 
   1. Thirty eligible Fitbit users consented to the submission of ***personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring***
   2. It includes information about ***daily activity, steps, and heart rate that can be used to explore users’ habits***
 
-NOTE: The dataset might have some limitations, and encourages you to consider adding another data to help
-address those limitations as you begin to work more with this data.
+# Limitations
+
 
 # Tools utilized
 ***R, SQL and Microsoft Excel*** for data cleaning, transformation, manipulation and visualization. 
